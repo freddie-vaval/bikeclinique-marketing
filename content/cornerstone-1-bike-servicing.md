@@ -114,9 +114,9 @@ Here's what you should expect to pay in South London right now.
 | Service | Budget Range | What You're Getting | Our Price |
 |---------|-------------|-------------------|-----------|
 | Basic Service | £40–£65 | Gear and brake adjustment | £85 |
-| Interim Service | £70–£120 | Basic + chain, brake pads | £135 |
-| Full/Master Service | £130–£220 | Everything except bar tape, full drivetrain | £165 |
-| Ultimate Overhaul | £200–£350 | Full machine detail, hydraulic brake service | £275 |
+| Advance Service | £120 | Interim + chain check, brake inspection, full safety check | £120 |
+| Full Service | £130–£220 | Everything checked, adjusted, and tested | £220 |
+| Upgrade Service | £300 | Full service + premium components, deeper detail | £300 |
 
 **Why do prices vary so much?**
 - **Location:** Shops in Clapham, Brixton and Balham charge 10-20% more than outlying areas
@@ -126,7 +126,9 @@ Here's what you should expect to pay in South London right now.
 
 **The real question isn't "what should I pay" — it's "what am I getting for what I pay?"**
 
-A £65 service from a chain shop might take 20 minutes. A £165 master service from a specialist should take 2-3 hours and include a written inspection report.
+- **Advance Service** — £120 (gear, brake inspection, chain check)
+- **Full Service** — £220 (complete check, adjustment, and test)
+- **Upgrade Service** — £300 (full service + premium components, deeper detail)
 
 ---
 
@@ -251,11 +253,13 @@ Here's what we do differently:
 
 ## Ready to Get Your Bike Serviced?
 
+The shop is based in Tooting, South London. BikeClinique covers all areas within a 5-mile radius — including Wandsworth, Balham, Clapham, Wimbledon, Streatham, and Brixton.
+
 We offer three service tiers — all with transparent pricing, no hidden add-ons:
 
-- **Interim Service** — £135 (gear, brake adjustment, chain check)
-- **Full Master Service** — £165 (everything except bar tape, full drivetrain)
-- **Ultimate Overhaul** — £275 (winter rebuild, hydraulic brake bleed, full detail)
+- **Advance Service** — £120 (gear, brake inspection, chain check, safety check)
+- **Full Service** — £220 (everything checked, adjusted, and tested)
+- **Upgrade Service** — £300 (full service + premium components, deeper detail)
 
 **[Book a Service →]**
 
