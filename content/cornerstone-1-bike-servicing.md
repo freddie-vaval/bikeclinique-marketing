@@ -253,7 +253,7 @@ Here's what we do differently:
 
 ## Ready to Get Your Bike Serviced?
 
-The shop is based in Tooting, South London. BikeClinique covers all areas within a 5-mile radius — including Wandsworth, Balham, Clapham, Wimbledon, Streatham, and Brixton.
+The shop is based in Wandsworth, South London. BikeClinique covers all areas within a 5-mile radius - Balham, Clapham, Tooting, Wimbledon, Streatham, and Brixton.
 
 We offer three service tiers — all with transparent pricing, no hidden add-ons:
 

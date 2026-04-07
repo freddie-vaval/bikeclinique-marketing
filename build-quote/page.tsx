@@ -79,8 +79,8 @@ WHAT'S INCLUDED
 CONTACT
 -------
 Fred — BikeClinique Workshop
-Based in Tooting, South London
-Covering: Wandsworth, Balham, Clapham, Wimbledon, 
+Based in Wandsworth, South London
+Covering: Balham, Clapham, Tooting, Wimbledon, Streatham, and Brixton (5-mile radius)
 Streatham, Brixton (5-mile radius)
 
 www.bikeclinique.co.uk
@@ -358,7 +358,7 @@ export default function BuildQuotePage() {
         {/* Footer */}
         <div style={{ marginTop: 48, paddingTop: 24, borderTop: '1px solid #1a1a1a' }}>
           <p style={{ color: '#333', fontSize: 12, textAlign: 'center' }}>
-            Based in Tooting, South London · Covering Wandsworth, Balham, Clapham, Wimbledon, Streatham, Brixton (5-mile radius)
+Based in Wandsworth, South London. Covering Balham, Clapham, Tooting, Wimbledon, Streatham, Brixton (5-mile radius)
           </p>
         </div>
       </div>
